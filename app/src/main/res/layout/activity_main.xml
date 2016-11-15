@@ -31,7 +31,6 @@
         android:inputType="textPersonName"
         android:ems="10"
         android:id="@+id/editText"
-        android:accessibilityTraversalBefore="hisiota"
         android:hint="なにか入力してください"
         android:singleLine="true"
         android:lines="1"
